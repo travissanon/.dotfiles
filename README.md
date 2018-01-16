@@ -57,7 +57,7 @@ A collection of tweaks to make my life easier.
 
 ### The color scheme of the terminal is [Dracula](https://github.com/dracula/dracula-theme)
 
-#### Color Scheme:
+### Color Scheme:
 
 __Base color__
 
