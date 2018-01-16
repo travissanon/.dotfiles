@@ -55,9 +55,9 @@ A collection of tweaks to make my life easier.
 
 ###### ~~the output of git commands are a little more colorful.. thats also neat~~
 
-#### The color scheme of the terminal is __Dracula__
+### The color scheme of the terminal is [Dracula](https://github.com/dracula/dracula-theme)
 
-###### Color Scheme:
+#### Color Scheme:
 
 __Base color__
 
