@@ -32,7 +32,7 @@ alias checkout="git checkout"
 alias log="git log --date-order --all --graph --format='%C(green)%h%Creset %C(yellow)%an%Creset %C(blue bold)%ar%Creset %C(red bold)%d%Creset%s'"
 alias status="git status"
 alias pmas="git push origin master"
-alias pher="git push origin heroku"
+alias pher="git push heroku master"
 
 # Installs Applications
 alias install-apps="brew cask install google-chrome;
