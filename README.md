@@ -3,21 +3,21 @@ A collection of tweaks to make my life easier.
 
 #### Traversing Files
 
-`🙉 >` `..` is to `cd ../` Move up 1 file
+`>` `..` is to `cd ../` Move up 1 file
 
-`🙉 >` `...` is to `cd ../../` Move up 2 files
+`>` `...` is to `cd ../../` Move up 2 files
 
-`🙉 >` `....` is to `cd ../../../` Move up 3 files
+`>` `....` is to `cd ../../../` Move up 3 files
 
-`🙉 >` `.....` is to `cd ../../../../` Move up 4 files
+`>` `.....` is to `cd ../../../../` Move up 4 files
 
 #### Open Applications
 
-`🙉 >` `atom` is to `atom .`
+`>` `atom` is to `atom .`
 
 #### Install Applications
 
-`🙉 >` `install-apps` downloads the following apps:
+`>` `install-apps` downloads the following apps:
 
 * Google Chrome
 * Discord
