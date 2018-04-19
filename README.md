@@ -34,9 +34,9 @@ A collection of tweaks to make my life easier.
 
 #### Git Commands
 
-`🙉 >` `clone` is to `git clone`
+`>` `clone` is to `git clone`
 
-`🙉 >` `pull` is to `git pull`
+`>` `pull` is to `git pull`
 
 `🙉 >` `rebase` is to `git rebase`
 
