@@ -12,7 +12,7 @@ unset file;
 # Aliases
 
 # Directory Stuff
-alias dev="cd ~/documents/dev"
+alias dev="cd documents/dev"
 
 # Traversing Stuff
 alias ..="cd ../"
@@ -21,32 +21,19 @@ alias ....="cd ../../../"
 alias .....="cd ../../../../"
 
 # Open Editor
-alias atom="atom ."
+alias code="code ."
 
 # Git stuff
-alias clone="git clone"
 alias pull="git pull"
+alias clone="git clone"
 alias rebase="git rebase"
 alias commit="git commit"
-alias checkout="git checkout"
-alias log="git log --date-order --all --graph --format='%C(green)%h%Creset %C(yellow)%an%Creset %C(blue bold)%ar%Creset %C(red bold)%d%Creset%s'"
 alias status="git status"
+alias checkout="git checkout"
 alias pmas="git push origin master"
 alias pher="git push heroku master"
-
-# Installs Applications
-alias install-apps="brew cask install google-chrome;
-										brew cask install discord;
-										brew cask isntall slack;
-										brew cask install minecraft;
-										brew cask install insomniax;
-										brew cask install sketch;
-										brew cask install zoom;
-										brew cask install adobe-creative-cloud;
-										brew cask install ghost;
-										brew cask install league-of-legends;
-										brew cask install spark;
-										brew cask install dropbox;"
+alias brewup="brew update; brew upgrade; brew prune; brew cleanup; brew doctor"
+alias log="git log --date-order --all --graph --format='%C(green)%h%Creset %C(yellow)%an%Creset %C(blue bold)%ar%Creset %C(red bold)%d%Creset%s'"
 
 # Case-insensitive globbing (used in pathname expansion)
 shopt -s nocaseglob;
